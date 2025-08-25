@@ -1,1 +1,0 @@
-var json_Fokusomrder_Kge2022_1 = {"type":"FeatureCollection","name":"Fokusomrder_Kge2022_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
